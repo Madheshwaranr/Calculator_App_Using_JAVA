@@ -46,6 +46,7 @@
 ```bash
 javac calculator/CalculatorUI.java
 java calculator.CalculatorUI
+```
 
 ## 📫 Contact:
 
