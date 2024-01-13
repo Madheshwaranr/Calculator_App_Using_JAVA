@@ -47,8 +47,7 @@
 javac calculator/CalculatorUI.java
 java calculator.CalculatorUI
 
-
-📫 **Contact:**
+## 📫 Contact:
 
 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/madheshwaran-r-b6a454209)
 
@@ -57,4 +56,3 @@ Email: madheshravi2001@gmail.com
 Let's connect and create amazing things!
 
 [My website portfolio](https://madheshwaranr.github.io/My_Portfolio/)
-
